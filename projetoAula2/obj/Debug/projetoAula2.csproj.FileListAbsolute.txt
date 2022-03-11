@@ -1,0 +1,14 @@
+F:\ds\projetoAula2\projetoAula2\bin\Debug\projetoAula2.exe.config
+F:\ds\projetoAula2\projetoAula2\bin\Debug\projetoAula2.exe
+F:\ds\projetoAula2\projetoAula2\bin\Debug\projetoAula2.pdb
+F:\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.csprojResolveAssemblyReference.cache
+F:\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.exe
+F:\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.pdb
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\bin\Debug\projetoAula2.exe.config
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\bin\Debug\projetoAula2.exe
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\bin\Debug\projetoAula2.pdb
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.csproj.AssemblyReference.cache
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.exe
+C:\Users\Anna\Pictures\Git\ds\projetoAula2\projetoAula2\obj\Debug\projetoAula2.pdb
